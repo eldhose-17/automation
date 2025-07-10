@@ -59,7 +59,7 @@ A robust OpenStack HA deployment relies on distributing critical services across
 
 ## Deployment Architecture Design
 
-*(You can add diagrams here if you have them.)*
+![image02](.image02)
 
 ## Step-by-Step Implementation
 
