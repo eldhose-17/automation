@@ -78,12 +78,12 @@ Replace `~/.ssh/id_rsa.pub` with the actual path to your SSH public key on your 
 
 #### How to run the terraform:
 Navigate to the Terraform directory:
-    ```
     cd /openstack-ansible/terraform
+    ```
     terraform init
     terraform plan
     terraform apply --auto-approve
-    ````
+    ```
 
 #### Node Setup:
 * 3 Controller nodes (t3.xlarge) for HA (Keystone, Nova API, Neutron, Galera DB).
